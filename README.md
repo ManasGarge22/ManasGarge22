@@ -15,7 +15,7 @@ I am a versatile developer passionate about bridging the gap between hardware an
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=ManasGarge22&limit=5&theme=aura&combine_all_yearly_contributions=true)
+<!-- ### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=ManasGarge22&limit=5&theme=aura&combine_all_yearly_contributions=true) -->
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
