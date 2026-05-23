@@ -99,9 +99,7 @@ Head-movement based mouse control system. Built from scratch for accessibility. 
 </p>
 
 <!-- STREAK -->
-<p align="center">
-  <img src="https://nirzak-streak-stats.vercel.app/?user=ManasGarge22&theme=radical&hide_border=true" />
-</p>
+
 
 <!-- ACTIVITY GRAPH -->
 <p align="center">
