@@ -93,10 +93,7 @@ Head-movement based mouse control system. Built from scratch for accessibility. 
 </p>
 
 <!-- STATS ROW -->
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ManasGarge22&theme=radical&hide_border=true&include_all_commits=true&count_private=false" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ManasGarge22&theme=radical&hide_border=true&include_all_commits=true&count_private=false&layout=compact" height="165" />
-</p>
+
 
 <!-- STREAK -->
 
