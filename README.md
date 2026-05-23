@@ -36,11 +36,11 @@ Open to **full-time / hybrid roles** in Data Engineering, ML Engineering, or any
 
 **ML & AI · Dev & Integration**
 
-[![My Skills](https://skillicons.dev/icons?i=tensorflow,pytorch,opencv,flask,react,streamlit,kotlin&perline=7)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=tensorflow,pytorch,opencv,flask,react,sklearn,kotlin&perline=7)](https://skillicons.dev)
 
 **Tools & Hardware**
 
-[![My Skills](https://skillicons.dev/icons?i=git,github,arduino,raspberrypi,figma,linux,docker&perline=7)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=git,github,arduino,raspberrypi,figma,linux,docker,vscode,postman,eclipse,androidstudio&perline=7)](https://skillicons.dev)
 
 ---
 
