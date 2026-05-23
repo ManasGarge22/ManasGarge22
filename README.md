@@ -65,18 +65,18 @@ Head-movement based mouse control system. Built from scratch for accessibility. 
 
 <!-- REPO CARDS — replace repo names below with your exact GitHub repo names -->
 <p align="center">
-  <a href="https://github.com/ManasGarge22/SafeTech">
+  <a href="https://github.com/ManasGarge22/SafeTech_Kotlin">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=ManasGarge22&repo=SafeTech&theme=radical&hide_border=true" />
   </a>
-  <a href="https://github.com/ManasGarge22/Plantolysis">
+  <a href="https://github.com/ManasGarge22/Plantolysis-V4.0">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=ManasGarge22&repo=Plantolysis&theme=radical&hide_border=true" />
   </a>
 </p>
 <p align="center">
-  <a href="https://github.com/ManasGarge22/Emergency-Vehicle-Priority">
+  <a href="https://github.com/ManasGarge22/Intelligent-Emergency-Vehicle-Priority-Smart-Car-Alert-System">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=ManasGarge22&repo=Emergency-Vehicle-Priority&theme=radical&hide_border=true" />
   </a>
-  <a href="https://github.com/ManasGarge22/Hands-Free-Mouse">
+  <a href="https://github.com/ManasGarge22/DIY-Assistive-Technology-for-Hands-Free-Interaction">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=ManasGarge22&repo=Hands-Free-Mouse&theme=radical&hide_border=true" />
   </a>
 </p>
