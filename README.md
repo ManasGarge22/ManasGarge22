@@ -109,6 +109,10 @@ Head-movement based mouse control system. Built from scratch for accessibility. 
 </p>
 
 ---
+## 📅 CONTRIBUTION CALENDAR 📅
+
+![](./profile-3d-contrib/profile-night-rainbow.svg)
+---
 
 ## 📬 Let's Talk
 
