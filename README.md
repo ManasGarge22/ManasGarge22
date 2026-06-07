@@ -15,6 +15,9 @@
   <a href="mailto:manasgarge1@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white" /></a>
   <a href="https://discord.gg/701753703757250580"><img src="https://img.shields.io/badge/Discord-%237289DA.svg?style=flat-square&logo=discord&logoColor=white" /></a>
   <img src="https://img.shields.io/badge/Open%20to%20Work-Hybrid%20%2F%20Full--time-brightgreen?style=flat-square" />
+  <a href="https://manasgargeportfolio.vercel.app">
+  <img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=flat-square&logo=firefox&logoColor=white" />
+</a>
 </p>
 
 ---
