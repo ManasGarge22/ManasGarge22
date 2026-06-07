@@ -111,7 +111,7 @@ Head-movement based mouse control system. Built from scratch for accessibility. 
 ---
 ## 📅 CONTRIBUTION CALENDAR 📅
 
-![](./profile-3d-contrib/profile-season-animate.svg)
+![](./profile-3d-contrib/profile-night-green.svg)
 ---
 
 ## 📬 Let's Talk
