@@ -47,7 +47,7 @@ Open to **full-time / hybrid roles** in Data Engineering, ML Engineering, or any
 
 ## 🚀 Projects Worth Looking At
 
-###  SafeTech — Rider Safety & Community App *(Patent In Progress)*
+###  SafeTech — Rider Safety & Community App *(Patent)*
 Real-time accident detection app for motorcyclists using phone sensors. Auto-detects crashes, tracks live trip metrics, and lets riders organize group rides on an interactive map.
 Published in **JAMRSD** (Impact Factor: 7.02)
 `Kotlin` `Firebase` `Google Maps SDK` `Fused Location API` `Accelerometer Sensors`
@@ -56,7 +56,7 @@ Published in **JAMRSD** (Impact Factor: 7.02)
 ML model for real-time soil and crop analysis. Integrated **Gemini AI** for live data-driven recommendations. End-to-end: IoT sensor → ML model → user dashboard.
 `Python` `Flask` `Gemini AI` `Streamlit` `IoT` `C++`
 
-###  Emergency Vehicle Priority System *(Patent In Progress)*
+###  Emergency Vehicle Priority System
 Automated traffic management system that detects emergency vehicles and dynamically clears intersections in real-time.
 `Python` `Flask` `MySQL` `Multi-threading` `IoT`
 
@@ -71,7 +71,7 @@ Head-movement based mouse control system. Built from scratch for accessibility. 
 - 🏗️ **Data Engineer Intern** at Ratnanjali Techx — ETL pipelines, AWS Beanstalk, CI/CD, end-to-end data projects
 - 📚 **MSc Data Science** at Fergusson College, Pune (2025 – ongoing) · CGPA 8.15
 - 🔩 **Freelancing** — IoT builds, data interfaces, web solutions
-- 📄 **2 patents in progress** — one already published in JAMRSD
+- 📄 **1 patent** — 
 
 ---
 
